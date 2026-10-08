@@ -20,6 +20,10 @@ Salary information was available for only 15.5% of the Data Analyst postings. Th
 
 The dataset ends on April 18, 2025, so 2025 represents a partial year and should not be compared directly with complete calendar years.
 
+### Data Availability
+
+The original dataset files are not included in this repository because they exceed GitHub's file-size limit. The analysis was performed locally using Luke Barousse's Data Analyst job dataset.
+
 ## Key Questions
 
 * What skills are most frequently requested in Data Analyst job postings?
