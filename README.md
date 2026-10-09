@@ -52,11 +52,10 @@ The original dataset files are not included in this repository because they exce
 * Among explicitly entry-level postings, **Excel, SQL, Tableau, and Power BI** were the most commonly requested skills.
 * Approximately **61.2%** of explicitly entry-level postings indicated remote work.
 
-'''
 ## Project Structure
 
+```text
 project_1_job_market/
-│
 ├── charts/       # Analysis charts
 ├── data/         # Local dataset files (not included on GitHub)
 ├── notebooks/    # Jupyter notebooks
@@ -64,7 +63,8 @@ project_1_job_market/
 ├── sql/          # SQL analysis
 ├── tableau/      # Tableau visualizations
 └── README.md     # Project documentation
-'''
+```
+
 
 ## Analysis
 
