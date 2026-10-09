@@ -55,17 +55,15 @@ The original dataset files are not included in this repository because they exce
 
 ## Project Structure
 
-```text
 project_1_job_market/
 │
 ├── charts/       # Analysis charts
-├── data/         # Dataset files
-├── images/       # Project images
+├── data/         # Local dataset files (not included on GitHub)
 ├── notebooks/    # Jupyter notebooks
+├── powerbi/      # Power BI visualizations
 ├── sql/          # SQL analysis
 ├── tableau/      # Tableau visualizations
 └── README.md     # Project documentation
-```
 
 ## Analysis
 
